@@ -1,0 +1,36 @@
+---
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre&family=Lora&display=swap');
+
+h1, h2, h3, h4, h5, h6, .site-title {
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+p, li {
+  font: 16px/22px "Lora", serif;
+}
+
+p.post-meta {
+  padding-left: 2pt;
+  font-size: 12pt;
+}
+
+.site-header {
+  border: none;
+  border-bottom: 1px solid #ddd;
+}
+
+header .wrapper {
+  margin-left: 0;
+}
+
+.footer-col p {
+  font-size: 10pt;
+}

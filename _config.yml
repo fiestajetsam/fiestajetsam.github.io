@@ -1,0 +1,16 @@
+title: minimal effort
+description: ""
+baseurl: ""
+url: "https://fiestajetsam.github.io" 
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
