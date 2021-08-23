@@ -42,7 +42,7 @@ future expansion but presently is limited to a subset of popular video and audio
 codecs and doesn't include other types (such as subtitles, transcriptions, or
 other signalling information) out of bitstream.
 
-## [draft-sharabayko-srt-over-quic-00](https://haivision.github.io/srt-rfc/draft-sharabayko-srt-over-quic.html)
+## [draft-sharabayko-srt-over-quic-00](https://datatracker.ietf.org/doc/html/draft-sharabayko-srt-over-quic)
 
 [SRT](https://datatracker.ietf.org/doc/draft-sharabayko-srt/) itself is a
 general purpose transport protocol (built on top of the
