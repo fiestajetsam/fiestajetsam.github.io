@@ -1,0 +1,68 @@
+digraph {
+
+    graph[compound="true" style="rounded,filled" color="#333333" fillcolor="#ffffff" fontcolor="#666666" fontname="sans-serif" fontsize="12" rankdir="LR" ranksep="0.3" nodesep="0.3"];
+    node[shape="rect" fontcolor="#ffffff" color="transparent" style="rounded,filled" fontsize="12" fontname="sans-serif" width="1" height="0.5"];
+    edge[color="#1D5BB5" penwidth="2" fontcolor="#666666" fontsize="8" fontname="sans-serif" minlen="3"];
+
+    subgraph cluster0{
+        graph[label="User Agent" fillcolor="#ebebeb"];
+        useragent_http[label="HTTP" fillcolor="#23A0A8"];
+        useragent_tls[label="TLS" fillcolor="#1DB56A"];
+        useragent_tcpudp[label="TCP/UDP" fillcolor="#155CC2"];
+    }
+
+    subgraph cluster1 {
+        graph[label="Proxy" style="filled,rounded" color="#333333"];
+
+        subgraph cluster2 {
+            graph[style="dashed,rounded,filled" label="" fillcolor="#ebebeb"];
+            proxy_useragent_http[label="HTTP" height="0.5" color="#23A0A8"];
+            proxy_useragent_tls[label="TLS" height="0.5" color="#1DB56A"];
+            proxy_useragent_tcpudp[label="TCP/UDP" width="0.01" height="0.5" color="#155CC2"];
+        }
+
+        subgraph cluster3 {
+            graph[style="dashed,rounded,filled" label="" fillcolor="#ebebeb"];
+            proxy_origin_http[label="HTTP" height="0.5" color="#23A0A8"];
+            proxy_origin_tls[label="TLS" height="0.5" color="#1DB56A"];
+            proxy_origin_tcpudp[label="TCP/UDP" height="0.5" color="#155CC2"];
+        }
+    }
+
+    subgraph cluster4{
+        graph[label="Origin" fillcolor="#ebebeb"];
+        origin_http[label="HTTP" fillcolor="#23A0A8"];
+        origin_tls[label="TLS" fillcolor="#1DB56A"];
+        origin_tcpudp[label="TCP/UDP" fillcolor="#155CC2"];
+    }
+
+    useragent_http -> proxy_useragent_http -> proxy_origin_http -> origin_http[weight="10" style="dotted" color="transparent" arrowhead="none"];
+    useragent_tls -> proxy_useragent_tls -> proxy_origin_tls -> origin_tls[ weight="10"style="dotted" color="transparent" arrowhead="none"];
+    useragent_tcpudp -> proxy_useragent_tcpudp -> proxy_origin_tcpudp -> origin_tcpudp[weight="10" style="dotted" color="transparent" arrowhead="none"];
+
+    # Drafts
+    ## draft-ietf-httpbis-client-cert-field
+    proxy_useragent_tls -> proxy_origin_http[color="#23A0A8" weight="-1" dir="back" label="draft-ietf-httpbis-client-cert-field"];
+    proxy_origin_http -> proxy_useragent_tls[color="transparent"];
+
+    ## draft-ietf-httpbis-proxy-status
+    proxy_useragent_http -> proxy_origin_http[color="#23A0A8" weight="-1" dir="back" label="draft-ietf-httpbis-proxy-status"];
+    proxy_useragent_http -> proxy_origin_tls[color="#1DB56A" weight="-1" dir="back" label="draft-ietf-httpbis-proxy-status"];
+    proxy_useragent_http -> proxy_origin_tcpudp[weight="-1" dir="back" label="draft-ietf-httpbis-proxy-status"];
+    
+    useragent_http -> proxy_useragent_http[color="#23A0A8" weight="-1" dir="back" label="draft-ietf-httpbis-proxy-status"];
+    useragent_http -> proxy_useragent_tls[color="#1DB56A" weight="-1" dir="back" label="draft-ietf-httpbis-proxy-status"];
+    useragent_http -> proxy_useragent_tcpudp[weight="-1" dir="back" label="draft-ietf-httpbis-proxy-status"];
+
+    ## draft-ohanlon-transport-info-header
+    proxy_useragent_http -> proxy_origin_tcpudp[weight="0" dir="back" label="draft-ohanlon-transport-info-header"];
+    useragent_http -> proxy_useragent_tcpudp[weight="-1" dir="back" label="draft-ohanlon-transport-info-header"];
+    proxy_origin_http -> origin_tcpudp[weight="-1" dir="back" label="draft-ohanlon-transport-info-header"];
+
+    # draft-ietf-httpbis-http2-secondary-certs
+    proxy_useragent_http -> useragent_tls[color="#23A0A8" weight="-1" label="draft-ietf-httpbis-http2-secondary-certs"];
+    proxy_origin_tls -> origin_http[color="#23A0A8" weight="-1" dir="back" label="draft-ietf-httpbis-http2-secondary-certs"];
+
+    # RFCs
+    #useragent_tls -> proxy_useragent_tls[label="RFC 7301 (ALPN)" color="#444444" fontcolor="#444444"];
+}

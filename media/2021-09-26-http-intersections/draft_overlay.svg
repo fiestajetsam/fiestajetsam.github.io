@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="draft_overlay.svg"
+   id="svg629"
+   version="1.1"
+   viewBox="0.00 0.00 1009.00 351.57"
+   height="352pt"
+   width="1009pt">
+  <metadata
+     id="metadata635">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs633" />
+  <sodipodi:namedview
+     inkscape:current-layer="graph0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="203.38017"
+     inkscape:cx="536.25235"
+     inkscape:zoom="0.61701024"
+     inkscape:snap-global="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-others="false"
+     showgrid="true"
+     id="namedview631"
+     inkscape:window-height="668"
+     inkscape:window-width="1233"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
+    <inkscape:grid
+       id="grid1492"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <g
+     transform="scale(1 1) rotate(0) translate(4 347.57)"
+     class="graph"
+     id="graph0">
+    <polygon
+       inkscape:export-ydpi="144.14"
+       inkscape:export-xdpi="144.14"
+       transform="matrix(1,0,0,0.73031818,0,-93.733311)"
+       id="polygon340"
+       points="-4,-347.57 1005,-347.57 1005,4 -4,4 "
+       stroke="transparent"
+       fill="#ffffff" />
+    <g
+       class="cluster"
+       id="clust1">
+      <title
+         id="title342">cluster0</title>
+      <path
+         id="path344"
+         d="M20,-110.57C20,-110.57 84,-110.57 84,-110.57 90,-110.57 96,-116.57 96,-122.57 96,-122.57 96,-287.57 96,-287.57 96,-293.57 90,-299.57 84,-299.57 84,-299.57 20,-299.57 20,-299.57 14,-299.57 8,-293.57 8,-287.57 8,-287.57 8,-122.57 8,-122.57 8,-116.57 14,-110.57 20,-110.57"
+         stroke="#333333"
+         fill="#ebebeb" />
+      <text
+         id="text346"
+         fill="#666666"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-285.97"
+         x="52"
+         text-anchor="middle">User Agent</text>
+    </g>
+    <g
+       class="cluster"
+       id="clust2">
+      <title
+         id="title349">cluster1</title>
+      <path
+         id="path351"
+         d="M310,-102.57C310,-102.57 691,-102.57 691,-102.57 697,-102.57 703,-108.57 703,-114.57 703,-114.57 703,-323.57 703,-323.57 703,-329.57 697,-335.57 691,-335.57 691,-335.57 310,-335.57 310,-335.57 304,-335.57 298,-329.57 298,-323.57 298,-323.57 298,-114.57 298,-114.57 298,-108.57 304,-102.57 310,-102.57"
+         stroke="#333333"
+         fill="#ffffff" />
+      <text
+         id="text353"
+         fill="#666666"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-321.97"
+         x="500.5"
+         text-anchor="middle">Proxy</text>
+    </g>
+    <g
+       class="cluster"
+       id="clust3">
+      <title
+         id="title356">cluster2</title>
+      <path
+         id="path358"
+         d="M318,-110.57C318,-110.57 382,-110.57 382,-110.57 388,-110.57 394,-116.57 394,-122.57 394,-122.57 394,-266.57 394,-266.57 394,-272.57 388,-278.57 382,-278.57 382,-278.57 318,-278.57 318,-278.57 312,-278.57 306,-272.57 306,-266.57 306,-266.57 306,-122.57 306,-122.57 306,-116.57 312,-110.57 318,-110.57"
+         stroke-dasharray="5,2"
+         stroke="#333333"
+         fill="none" />
+    </g>
+    <g
+       class="cluster"
+       id="clust4">
+      <title
+         id="title361">cluster3</title>
+      <path
+         id="path363"
+         d="M619,-110.57C619,-110.57 683,-110.57 683,-110.57 689,-110.57 695,-116.57 695,-122.57 695,-122.57 695,-266.57 695,-266.57 695,-272.57 689,-278.57 683,-278.57 683,-278.57 619,-278.57 619,-278.57 613,-278.57 607,-272.57 607,-266.57 607,-266.57 607,-122.57 607,-122.57 607,-116.57 613,-110.57 619,-110.57"
+         stroke-dasharray="5,2"
+         stroke="#333333"
+         fill="none" />
+    </g>
+    <g
+       class="cluster"
+       id="clust5">
+      <title
+         id="title366">cluster4</title>
+      <path
+         id="path368"
+         d="M917,-110.57C917,-110.57 981,-110.57 981,-110.57 987,-110.57 993,-116.57 993,-122.57 993,-122.57 993,-287.57 993,-287.57 993,-293.57 987,-299.57 981,-299.57 981,-299.57 917,-299.57 917,-299.57 911,-299.57 905,-293.57 905,-287.57 905,-287.57 905,-122.57 905,-122.57 905,-116.57 911,-110.57 917,-110.57"
+         stroke="#333333"
+         fill="#ebebeb" />
+      <text
+         id="text370"
+         fill="#666666"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-285.97"
+         x="949"
+         text-anchor="middle">Origin</text>
+    </g>
+    <!-- useragent_http -->
+    <g
+       class="node"
+       id="node1">
+      <title
+         id="title373">useragent_http</title>
+      <path
+         id="path375"
+         d="M76,-212.57C76,-212.57 28,-212.57 28,-212.57 22,-212.57 16,-206.57 16,-200.57 16,-200.57 16,-188.57 16,-188.57 16,-182.57 22,-176.57 28,-176.57 28,-176.57 76,-176.57 76,-176.57 82,-176.57 88,-182.57 88,-188.57 88,-188.57 88,-200.57 88,-200.57 88,-206.57 82,-212.57 76,-212.57"
+         stroke="transparent"
+         fill="#23a0a8" />
+      <text
+         id="text377"
+         fill="#ffffff"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-191.47"
+         x="52"
+         text-anchor="middle">HTTP</text>
+    </g>
+    <!-- proxy_useragent_http -->
+    <g
+       class="node"
+       id="node4">
+      <title
+         id="title380">proxy_useragent_http</title>
+      <path
+         id="path382"
+         d="M374,-212.57C374,-212.57 326,-212.57 326,-212.57 320,-212.57 314,-206.57 314,-200.57 314,-200.57 314,-188.57 314,-188.57 314,-182.57 320,-176.57 326,-176.57 326,-176.57 374,-176.57 374,-176.57 380,-176.57 386,-182.57 386,-188.57 386,-188.57 386,-200.57 386,-200.57 386,-206.57 380,-212.57 374,-212.57"
+         stroke="#23a0a8"
+         fill="#23a0a8" />
+      <text
+         id="text384"
+         fill="#ffffff"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-191.47"
+         x="350"
+         text-anchor="middle">HTTP</text>
+    </g>
+    <!-- useragent_http&#45;&gt;proxy_useragent_http -->
+    <g
+       class="edge"
+       id="edge1">
+      <title
+         id="title387">useragent_http-&gt;proxy_useragent_http</title>
+      <path
+         id="path389"
+         d="M88.12,-194.57C141.86,-194.57 244.49,-194.57 303.74,-194.57"
+         stroke-width="2"
+         stroke="transparent"
+         fill="none" />
+    </g>
+    <!-- useragent_http&#45;&gt;proxy_useragent_http -->
+    <!-- proxy_useragent_tls -->
+    <!-- useragent_http&#45;&gt;proxy_useragent_tls -->
+    <!-- proxy_useragent_tcpudp -->
+    <!-- useragent_http&#45;&gt;proxy_useragent_tcpudp -->
+    <!-- useragent_http&#45;&gt;proxy_useragent_tcpudp -->
+    <!-- useragent_tls -->
+    <g
+       transform="translate(0.15194237,-0.45582711)"
+       class="node"
+       id="node2">
+      <title
+         id="title444">useragent_tls</title>
+      <path
+         id="path446"
+         d="m 76,-270.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         stroke="transparent"
+         fill="#1db56a" />
+      <text
+         id="text448"
+         fill="#ffffff"
+         font-size="12px"
+         font-family="sans-serif"
+         y="-249.47"
+         x="52"
+         text-anchor="middle">TLS</text>
+    </g>
+    <!-- useragent_tls&#45;&gt;proxy_useragent_tls -->
+    <!-- useragent_tcpudp -->
+    <!-- useragent_tcpudp&#45;&gt;proxy_useragent_tcpudp -->
+    <!-- proxy_useragent_http&#45;&gt;useragent_tls -->
+    <!-- proxy_origin_http -->
+    <g
+       transform="translate(0,0.31916821)"
+       class="node"
+       id="node7">
+      <title
+         id="title481">proxy_origin_http</title>
+      <path
+         id="path483"
+         d="m 675,-212.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         stroke="#23a0a8"
+         fill="#23a0a8" />
+      <text
+         id="text485"
+         fill="#ffffff"
+         font-size="12px"
+         font-family="sans-serif"
+         y="-191.47"
+         x="651"
+         text-anchor="middle">HTTP</text>
+    </g>
+    <!-- proxy_useragent_http&#45;&gt;proxy_origin_http -->
+    <!-- proxy_useragent_http&#45;&gt;proxy_origin_http -->
+    <g
+       class="edge"
+       id="edge11">
+      <title
+         id="title495">proxy_useragent_http-&gt;proxy_origin_http</title>
+      <path
+         id="path497"
+         d="M396.1,-200.17C398.09,-200.32 400.06,-200.46 402,-200.57 489.41,-205.7 511.59,-205.7 599,-200.57 604.16,-200.27 609.6,-199.8 614.93,-199.25"
+         stroke-width="2"
+         stroke="#888888"
+         fill="none" />
+      <polygon
+         id="polygon499"
+         points="396.35,-196.67 386.07,-199.25 395.71,-203.64 396.35,-196.67"
+         stroke-width="2"
+         stroke="#888888"
+         fill="#888888" />
+      <text
+         id="text501"
+         fill="#999999"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-207.17"
+         x="500.5"
+         text-anchor="middle">draft-ietf-httpbis-proxy-status</text>
+    </g>
+    <!-- proxy_origin_tls -->
+    <g
+       class="node"
+       id="node8">
+      <title
+         id="title504">proxy_origin_tls</title>
+      <path
+         id="path506"
+         d="M675,-270.57C675,-270.57 627,-270.57 627,-270.57 621,-270.57 615,-264.57 615,-258.57 615,-258.57 615,-246.57 615,-246.57 615,-240.57 621,-234.57 627,-234.57 627,-234.57 675,-234.57 675,-234.57 681,-234.57 687,-240.57 687,-246.57 687,-246.57 687,-258.57 687,-258.57 687,-264.57 681,-270.57 675,-270.57"
+         stroke="#1db56a"
+         fill="#1db56a" />
+      <text
+         id="text508"
+         fill="#ffffff"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-249.47"
+         x="651"
+         text-anchor="middle">TLS</text>
+    </g>
+    <!-- proxy_useragent_http&#45;&gt;proxy_origin_tls -->
+    <g
+       class="edge"
+       id="edge12">
+      <title
+         id="title511">proxy_useragent_http-&gt;proxy_origin_tls</title>
+      <path
+         id="path513"
+         d="M395.79,-210.19C405.66,-213.27 416.12,-216.26 426,-218.57 491.87,-234.01 570.34,-244.05 614.75,-248.98"
+         stroke-width="2"
+         stroke="#888888"
+         fill="none" />
+      <polygon
+         id="polygon515"
+         points="396.75,-206.82 386.16,-207.1 394.61,-213.48 396.75,-206.82"
+         stroke-width="2"
+         stroke="#888888"
+         fill="#888888" />
+      <text
+         id="text517"
+         fill="#999999"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-247.17"
+         x="500.5"
+         text-anchor="middle">draft-ietf-httpbis-proxy-status</text>
+    </g>
+    <!-- proxy_origin_tcpudp -->
+    <!-- proxy_useragent_http&#45;&gt;proxy_origin_tcpudp -->
+    <g
+       class="edge"
+       id="edge13">
+      <title
+         id="title527">proxy_useragent_http-&gt;proxy_origin_tcpudp</title>
+      <path
+         id="path529"
+         d="M396.12,-186.1C405.96,-184.26 416.33,-182.34 426,-180.57 502.84,-166.52 522.66,-166.12 599,-149.57 604.18,-148.45 609.63,-147.17 614.96,-145.86"
+         stroke-width="2"
+         stroke="#888888"
+         fill="none" />
+      <polygon
+         id="polygon531"
+         points="395.28,-182.69 386.09,-187.97 396.57,-189.57 395.28,-182.69"
+         stroke-width="2"
+         stroke="#888888"
+         fill="#888888" />
+      <text
+         id="text533"
+         fill="#999999"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-183.17"
+         x="500.5"
+         text-anchor="middle">draft-ietf-httpbis-proxy-status</text>
+    </g>
+    <!-- proxy_useragent_http&#45;&gt;proxy_origin_tcpudp -->
+    <g
+       class="edge"
+       id="edge17">
+      <title
+         id="title536">proxy_useragent_http-&gt;proxy_origin_tcpudp</title>
+      <path
+         id="path538"
+         d="M386.79,-170.64C389.24,-168.94 391.66,-167.24 394,-165.57 408.49,-155.27 409.2,-147.38 426,-141.57 489.6,-119.58 569.54,-125.03 614.69,-130.87"
+         stroke-width="2"
+         stroke="#555555"
+         fill="none" />
+      <polygon
+         id="polygon540"
+         points="384.7,-167.82 378.44,-176.37 388.66,-173.59 384.7,-167.82"
+         stroke-width="2"
+         stroke="#555555"
+         fill="#555555" />
+      <text
+         id="text542"
+         fill="#555555"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-144.17"
+         x="500.5"
+         text-anchor="middle">draft-ohanlon-transport-info-header</text>
+    </g>
+    <!-- proxy_useragent_tls&#45;&gt;proxy_origin_http -->
+    <g
+       class="edge"
+       id="edge10">
+      <title
+         id="title545">proxy_useragent_tls-&gt;proxy_origin_http</title>
+      <path
+         id="path547"
+         d="M395.99,-267.3C443.13,-280 518.1,-292.34 575,-264.57 595.77,-254.43 590.1,-239.34 607,-223.57 611.08,-219.76 615.71,-216.1 620.38,-212.73"
+         stroke-width="2"
+         stroke="#666666"
+         fill="none" />
+      <polygon
+         id="polygon549"
+         points="396.66,-263.85 386.08,-264.51 394.76,-270.59 396.66,-263.85"
+         stroke-width="2"
+         stroke="#666666"
+         fill="#666666" />
+      <text
+         id="text551"
+         fill="#666666"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-284.17"
+         x="500.5"
+         text-anchor="middle">draft-bdc-something-something-certificate</text>
+    </g>
+    <!-- proxy_useragent_tls&#45;&gt;proxy_origin_tls -->
+    <!-- proxy_useragent_tcpudp&#45;&gt;proxy_origin_tcpudp -->
+    <!-- origin_http -->
+    <!-- proxy_origin_http&#45;&gt;origin_http -->
+    <!-- origin_tcpudp -->
+    <g
+       transform="translate(-0.578225)"
+       class="node"
+       id="node12">
+      <title
+         id="title582">origin_tcpudp</title>
+      <path
+         id="path584"
+         d="m 973,-154.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         stroke="transparent"
+         fill="#155cc2" />
+      <text
+         id="text586"
+         fill="#ffffff"
+         font-size="12px"
+         font-family="sans-serif"
+         y="-133.47"
+         x="949"
+         text-anchor="middle">TCP/UDP</text>
+    </g>
+    <!-- proxy_origin_http&#45;&gt;origin_tcpudp -->
+    <!-- proxy_origin_tls&#45;&gt;origin_http -->
+    <!-- origin_tls -->
+    <g
+       transform="translate(-0.578225)"
+       class="node"
+       id="node11">
+      <title
+         id="title607">origin_tls</title>
+      <path
+         id="path609"
+         d="m 973,-270.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         stroke="transparent"
+         fill="#1db56a" />
+      <text
+         id="text611"
+         fill="#ffffff"
+         font-size="12px"
+         font-family="sans-serif"
+         y="-249.47"
+         x="949"
+         text-anchor="middle">TLS</text>
+    </g>
+    <!-- proxy_origin_tls&#45;&gt;origin_tls -->
+    <!-- proxy_origin_tcpudp&#45;&gt;origin_tcpudp -->
+    <rect
+       style="opacity:0.75;fill:#1db56a;fill-opacity:1;stroke-width:0.75"
+       id="rect637"
+       width="259.32224"
+       height="36.218372"
+       x="70.714523"
+       y="-271.07361" />
+    <g
+       class="edge"
+       id="edge20">
+      <title
+         id="title472">proxy_useragent_http-&gt;useragent_tls</title>
+      <path
+         id="path474"
+         d="M314.13,-212.63C308.56,-216.01 302.99,-219.71 298,-223.57 281.85,-236.08 284.81,-248.61 266,-256.57 211.81,-279.51 142.7,-272.39 98.15,-263.72"
+         stroke-width="2"
+         stroke="#777777"
+         fill="none" />
+      <polygon
+         id="polygon476"
+         points="98.71,-260.26 88.21,-261.67 97.3,-267.11 98.71,-260.26"
+         stroke-width="2"
+         stroke="#777777"
+         fill="#777777" />
+      <text
+         id="text478"
+         fill="#777777"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-275.17"
+         x="197"
+         text-anchor="middle">draft-ietf-httpbis-http2-secondary-certs</text>
+    </g>
+    <rect
+       y="-212.57001"
+       x="76"
+       height="36.648125"
+       width="250.29733"
+       id="rect637-7"
+       style="opacity:0.75;fill:#23a0a8;fill-opacity:1;stroke-width:0.80698" />
+    <g
+       class="edge"
+       id="edge14">
+      <title
+         id="title394">useragent_http-&gt;proxy_useragent_http</title>
+      <path
+         id="path396"
+         d="M98.23,-184.74C108,-183.01 118.31,-181.47 128,-180.57 189.07,-174.92 204.88,-175.45 266,-180.57 281.73,-181.89 298.96,-184.59 313.62,-187.27"
+         stroke-width="2"
+         stroke="#555555"
+         fill="none" />
+      <polygon
+         id="polygon398"
+         points="97.48,-181.32 88.29,-186.6 98.77,-188.2 97.48,-181.32"
+         stroke-width="2"
+         stroke="#555555"
+         fill="#555555" />
+      <text
+         style="fill:#ffffff;"
+         id="text400"
+         fill="#999999"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-183.17"
+         x="197"
+         text-anchor="middle">draft-ietf-httpbis-proxy-status</text>
+    </g>
+    <rect
+       style="opacity:0.75;fill:#155cc2;fill-opacity:1;stroke-width:0.738459"
+       id="rect637-7-9"
+       width="254.99997"
+       height="35.707394"
+       x="71"
+       y="-154.7424" />
+    <g
+       class="node"
+       id="node3">
+      <title
+         id="title458">useragent_tcpudp</title>
+      <path
+         id="path460"
+         d="M76,-154.57C76,-154.57 28,-154.57 28,-154.57 22,-154.57 16,-148.57 16,-142.57 16,-142.57 16,-130.57 16,-130.57 16,-124.57 22,-118.57 28,-118.57 28,-118.57 76,-118.57 76,-118.57 82,-118.57 88,-124.57 88,-130.57 88,-130.57 88,-142.57 88,-142.57 88,-148.57 82,-154.57 76,-154.57"
+         stroke="transparent"
+         fill="#155cc2" />
+      <text
+         id="text462"
+         fill="#ffffff"
+         font-size="12.00"
+         font-family="sans-serif"
+         y="-133.47"
+         x="52"
+         text-anchor="middle">TCP/UDP</text>
+    </g>
+    <g
+       class="edge"
+       id="edge16">
+      <title
+         id="title426">useragent_http-&gt;proxy_useragent_tcpudp</title>
+      <path
+         id="path428"
+         d="M97.37,-173.18C107.26,-169.11 117.84,-165.28 128,-162.57 192.4,-145.43 270.35,-139.58 314.36,-137.6"
+         stroke-width="2"
+         stroke="#555555"
+         fill="none" />
+      <polygon
+         id="polygon430"
+         points="95.94,-169.98 88.12,-177.13 98.69,-176.42 95.94,-169.98"
+         stroke-width="2"
+         stroke="#555555"
+         fill="#555555" />
+      <text
+         id="text432"
+         fill="#999999"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-165.17"
+         x="197"
+         text-anchor="middle">draft-ietf-httpbis-proxy-status</text>
+    </g>
+    <g
+       class="edge"
+       id="edge18">
+      <title
+         id="title435">useragent_http-&gt;proxy_useragent_tcpudp</title>
+      <path
+         id="path437"
+         d="M90.72,-170.06C92.54,-168.59 94.31,-167.09 96,-165.57 112.42,-150.81 107.98,-136.89 128,-127.57 188.58,-99.39 268.91,-113.68 314.15,-125.72"
+         stroke-width="2"
+         stroke="#555555"
+         fill="none" />
+      <polygon
+         id="polygon439"
+         points="88.36,-167.45 82.5,-176.28 92.59,-173.03 88.36,-167.45"
+         stroke-width="2"
+         stroke="#555555"
+         fill="#555555" />
+      <text
+         style="fill:#ffffff;"
+         id="text441"
+         fill="#555555"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-130.17"
+         x="197"
+         text-anchor="middle">draft-ohanlon-transport-info-header</text>
+    </g>
+    <g
+       transform="translate(298.74999,-0.33020156)"
+       id="node3-1"
+       class="node">
+      <title
+         id="title458-4">useragent_tcpudp</title>
+      <path
+         fill="#155cc2"
+         stroke="transparent"
+         d="m 76,-154.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path460-7" />
+      <text
+         text-anchor="middle"
+         x="52"
+         y="-133.47"
+         font-family="sans-serif"
+         font-size="12px"
+         fill="#ffffff"
+         id="text462-1">TCP/UDP</text>
+    </g>
+    <g
+       transform="translate(298.66164,-0.46835241)"
+       id="node2-3"
+       class="node">
+      <title
+         id="title444-5">useragent_tls</title>
+      <path
+         fill="#1db56a"
+         stroke="transparent"
+         d="m 76,-270.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path446-4" />
+      <text
+         text-anchor="middle"
+         x="52"
+         y="-249.47"
+         font-family="sans-serif"
+         font-size="12px"
+         fill="#ffffff"
+         id="text448-3">TLS</text>
+    </g>
+    <g
+       class="edge"
+       id="edge15">
+      <title
+         id="title410">useragent_http-&gt;proxy_useragent_tls</title>
+      <polygon
+         id="polygon414"
+         points="98.76,-206.57 88.18,-207.09 96.78,-213.28 98.76,-206.57"
+         stroke-width="2"
+         stroke="#555555"
+         fill="#555555" />
+      <text
+         style="fill:#ffffff;"
+         id="text416"
+         fill="#999999"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-245.17"
+         x="197"
+         text-anchor="middle">draft-ietf-httpbis-proxy-status</text>
+      <path
+         id="path412"
+         d="M98.11,-210.02C100.1,-210.57 102.06,-211.09 104,-211.57 177.66,-229.89 265.84,-242.4 313.76,-248.43"
+         stroke-width="2"
+         stroke="#555555"
+         fill="none" />
+    </g>
+    <rect
+       y="-270.81049"
+       x="668.6969"
+       height="36.218372"
+       width="259.32224"
+       id="rect637-8"
+       style="opacity:0.75;fill:#1db56a;fill-opacity:1;stroke-width:0.75" />
+    <rect
+       style="opacity:0.75;fill:#23a0a8;fill-opacity:1;stroke-width:0.806978"
+       id="rect637-7-7"
+       width="250.29735"
+       height="36.648125"
+       x="673.98236"
+       y="-212.3069" />
+    <rect
+       y="-154.47926"
+       x="668.98236"
+       height="35.707394"
+       width="254.99997"
+       id="rect637-7-9-8"
+       style="opacity:0.75;fill:#155cc2;fill-opacity:1;stroke-width:0.738459" />
+    <g
+       class="edge"
+       id="edge19">
+      <title
+         id="title589">proxy_origin_http-&gt;origin_tcpudp</title>
+      <path
+         id="path591"
+         d="M696.94,-185.77C756.16,-174.16 859.1,-153.99 912.93,-143.45"
+         stroke-width="2"
+         stroke="#555555"
+         fill="none" />
+      <polygon
+         id="polygon593"
+         points="696.26,-182.33 687.12,-187.69 697.6,-189.2 696.26,-182.33"
+         stroke-width="2"
+         stroke="#555555"
+         fill="#555555" />
+      <text
+         style="fill:#ffffff;"
+         id="text595"
+         fill="#555555"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-181.17"
+         x="804"
+         text-anchor="middle">draft-ohanlon-transport-info-header</text>
+    </g>
+    <g
+       class="edge"
+       id="edge21">
+      <title
+         id="title598">proxy_origin_tls-&gt;origin_http</title>
+      <path
+         id="path600"
+         d="M697.31,-247.14C746.81,-240.72 828.23,-228.68 897,-211.57 902.16,-210.29 907.55,-208.73 912.82,-207.09"
+         stroke-width="2"
+         stroke="#777777"
+         fill="none" />
+      <polygon
+         id="polygon602"
+         points="696.72,-243.69 687.24,-248.43 697.61,-250.63 696.72,-243.69"
+         stroke-width="2"
+         stroke="#777777"
+         fill="#777777" />
+      <text
+         style="fill:#ffffff;"
+         id="text604"
+         fill="#777777"
+         font-size="8.00"
+         font-family="sans-serif"
+         y="-245.17"
+         x="804"
+         text-anchor="middle">draft-ietf-httpbis-http2-secondary-certs</text>
+    </g>
+    <g
+       transform="translate(297.42178,0.31916821)"
+       id="node7-9"
+       class="node">
+      <title
+         id="title481-1">proxy_origin_http</title>
+      <path
+         fill="#23a0a8"
+         stroke="#23a0a8"
+         d="m 675,-212.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path483-5" />
+      <text
+         text-anchor="middle"
+         x="651"
+         y="-191.47"
+         font-family="sans-serif"
+         font-size="12px"
+         fill="#ffffff"
+         id="text485-5">HTTP</text>
+    </g>
+    <g
+       id="node12-2"
+       class="node"
+       transform="translate(-298.90845,0.2258976)">
+      <title
+         id="title582-9">origin_tcpudp</title>
+      <path
+         fill="#155cc2"
+         stroke="transparent"
+         d="m 973,-154.57 c 0,0 -48,0 -48,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 48,0 48,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path584-8" />
+      <text
+         text-anchor="middle"
+         x="949"
+         y="-133.47"
+         font-family="sans-serif"
+         font-size="12px"
+         fill="#ffffff"
+         id="text586-2">TCP/UDP</text>
+    </g>
+  </g>
+</svg>
