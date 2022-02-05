@@ -13,4 +13,4 @@ build:
 	--volume="${PWD}:/srv/jekyll" \
 	--volume="${PWD}/vendor/bundle:/usr/local/bundle" \
 	jekyll/jekyll:3.8 \
-	jekyll build
+	jekyll build --verbose
